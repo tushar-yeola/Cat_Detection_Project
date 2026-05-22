@@ -204,8 +204,6 @@ Cat_Detection_Project/
 ├── README.md
 ├── requirements.txt
 ├── cat_detection_yolov8s.pt
-├── sample_outputs/
-└── dataset/
 ```
 
 ---
