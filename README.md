@@ -203,7 +203,7 @@ Cat_Detection_Project/
 ├── cat_detection.ipynb
 ├── README.md
 ├── requirements.txt
-├── cat_detection_yolov8s.pt
+└── cat_detection_weights.pt
 ```
 
 ---
